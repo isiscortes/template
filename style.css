@@ -1,0 +1,25 @@
+*{font-family: Tahoma;}
+
+.home {
+	text-align: right;
+}
+
+#sector1{
+	position: center;
+	}
+
+#sector2{
+	text-align:center;
+	size:30px;}
+
+img {width: 150px; height: 150px;}
+	}
+
+h3{text-align:center;}
+
+#sector4{
+	background-color: darkblue;	
+	color:white;
+	text-align: right;	
+	}
+
